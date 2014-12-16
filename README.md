@@ -4,7 +4,11 @@ CleaningDataProject
 Data Codebook
 -------------
 <table>
-<tr><td>Variable<br/>Name</td><td>Variable<br/>Position</td><td>Variable</td><td>Values or<br/>Explanation</td></tr>
+<tr><td>Variable<br/>Name</td><td>Variable</td><td>Values or<br/>Explanation</td></tr></table>
+<tr><td>SubjectID</td><td>Id of Test Subject</td><td>Test subject is referenced by a number as ID</tr>
+<tr><td>ActivityLabel</td><td>Activities performed by Subject</td><td>Measurements were performed for the following activities<br/>
+LAYING<br/>SITTING<br/>STANDING<br/>WALKING<br/>WALKING_DOWNSTAIRS<br/>WALKING_UPSTAIRS</tr>
+
 </table>
 
 Example Usage
