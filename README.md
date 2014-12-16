@@ -1,6 +1,12 @@
 CleaningDataProject
 ===================
 
+Data Codebook
+-------------
+<table>
+<tr><td>Variable<br/>Name</td><td>Variable<br/>Position</td><td>Variable</td><td>Values or<br/>Explanation</td></tr>
+</table>
+
 Example Usage
 -------------
 <pre><code>
